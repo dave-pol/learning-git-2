@@ -1,4 +1,5 @@
 .author-wrapper {
+	display: -ms-flexbox;
 	display: flex;
 }
 .content-wrapper {
@@ -15,5 +16,6 @@ p {
 	width: 200px; 
 }
 .container {
+	display: -ms-flexbox;
 	display: flex; 
 }
