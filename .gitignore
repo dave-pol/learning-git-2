@@ -73,4 +73,8 @@ typings/
 .serverless
 
 # FuseBox cache
+<<<<<<< HEAD
 .fusebox/
+=======
+.fusebox/
+>>>>>>> task-6
